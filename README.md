@@ -171,4 +171,7 @@ jupyter notebook notebook/cifar10_experiments.ipynb
 
 MIT — see [LICENSE](LICENSE). Note the patent notice above: this license
 covers the code in this repository and does not grant any rights under
-the referenced patent.
+the referenced patent. This work as a system and a method is under patent consideration/
+
+## Aknoledgement
+This work was encoraged and partialy funded by Chemophilic Data Sage LLP. 
