@@ -175,3 +175,16 @@ the referenced patent. This work as a system and a method is under patent consid
 
 ## Aknoledgement
 This work was encoraged and partialy funded by Chemophilic Data Sage LLP. 
+
+## Special Thanks,
+For being the source of Encouragement, Creative Critics, Emotional Endurance  , I would like to thank,
+Prof James G. (Jimi) Shanahan - my Key Faculty Durning my MS Indiana University
+
+My Reseach Guide and RAC and Faculties from Christ University
+Prof Dr Senthilnathan T, Prof Dr Sreeja CS, Prof Dr Vaidhedai V, Prof Dr Reshmi KR,
+Prof Dr Saleema, Prof Dr Arul
+Research Scholar , Rahul Kumar
+
+Prof Dr. Sriparna Saha --IIT Patna
+
+Dr Ashlay George, Dr Salveya Babu -- Chemophilic Data Sage
