@@ -166,6 +166,7 @@ jupyter notebook notebook/cifar10_experiments.ipynb
 - ["PerNodeDrop: A Practical and Efficient Alternative to DropConnect —
   Exploring Node-Owned Stochasticity."](https://github.com/keras-team/keras/discussions/23090)
   keras-team/keras Discussion #23090.
+- Gelesh G Omathil, Sreeja C. S , ["Co Adaptation Vs Signal Altering Regularization Layer in Deep Learning: A Trade Off Analysis via Node Redundancy and Transfer Learning"] (https://ieeexplore.ieee.org/document/11252043/)
 
 ## License
 
