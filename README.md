@@ -158,7 +158,7 @@ jupyter notebook notebook/cifar10_experiments.ipynb
 
 - L. Wan, M. Zeiler, S. Zhang, Y. LeCun, R. Fergus. ["Regularization of
   Neural Networks using DropConnect."](https://cs.nyu.edu/~wanli/dropc/dropc.pdf) ICML 2013.
-- Sreeja C. S. ["PerNodeDrop: A Method Balancing Specialized Subnets and
+- Gelesh G Omathil, Sreeja C. S. ["PerNodeDrop: A Method Balancing Specialized Subnets and
   Regularization in Deep Neural Networks."](https://arxiv.org/abs/2512.12663)
   arXiv:2512.12663. Notes a provisional patent filed by Chemophilic Data
   Sage related to the PerNodeDrop method — see the notice at the top of
